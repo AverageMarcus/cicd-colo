@@ -25,4 +25,17 @@ Cloud Native CI/CD Con is a one-day conferenced focussed around all things conti
 
 **Logos:**
 
-[Work in Progress]
+Cloud Native CI/CD Con
+
+![](./assets/logos/CloudNativeCICDCon-1.png)
+![](./assets/logos/CloudNativeCICDCon-2.png)
+
+Release Engineering Day
+
+![](./assets/logos/ReleaseEngineeringDay-1.png)
+![](./assets/logos/ReleaseEngineeringDay-2.png)
+
+Individual Logos
+
+![](./assets/logos/CogsLogo.png)
+![](./assets/logos/ConveyorLogo.png)
